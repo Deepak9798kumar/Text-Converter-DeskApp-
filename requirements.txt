@@ -1,0 +1,4 @@
+customtkinter
+Pillow
+pyperclip
+easyocr
